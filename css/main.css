@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+video {
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: calc(100vh - 56px);
+}
+
+
+.juego {
+    background: rgba(14, 78, 255, 0.575);
+    border-radius: 40px 20px 40px 20px;
+}
+
